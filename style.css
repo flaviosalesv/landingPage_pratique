@@ -1,0 +1,30 @@
+body {
+    font-family: 'Varela Round', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url(./spiderman.jpg) no-repeat;
+    background-size: cover;
+}
+
+header {
+    background-color: #2d3436;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+nav a {
+    font-family: Arial, sans-serif;
+    color: #fff;
+    margin: 15px;
+}
+
+footer {
+    background-color: #2d3436;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
